@@ -1,0 +1,3 @@
+include ':CustomClasses'
+include ':app'
+rootProject.name = "CustomClassLibrary"
